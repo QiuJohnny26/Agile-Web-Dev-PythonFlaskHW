@@ -23,7 +23,7 @@ Ex:http://localhost:5000/add/1/10
 Displays:</br>
 1 + 10 = 11 </br>
 
-2. To do Multiply/Subtract/Divide replace add with (/multiply,/subtract,/divide)</br>
+2.To do Multiply/Subtract/Divide replace add with (/multiply,/subtract,/divide)</br>
 
 <strong> Screenshots will be provided </strong>
 
